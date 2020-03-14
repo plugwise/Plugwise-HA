@@ -1,5 +1,7 @@
 # Configuration file `configuration.yaml` entry
 
+Basic support - alpha version - of Anna (non-legacy), Adam and P1 (v3)
+
 ```
 Plugwise-HA:
   thermostat:
