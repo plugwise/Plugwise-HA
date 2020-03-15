@@ -32,3 +32,5 @@ Plugwise-HA:
       solar: False           # Defaults to True - if you don't have solar panels set to False to skip sensors
       gas: False             # Defaults to True - if you don't have gas at home, set to False to skip sensors
 ```
+
+Note: each Plug must have its own, unique, location-name, otherwise it will not show up!
