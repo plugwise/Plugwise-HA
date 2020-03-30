@@ -1,4 +1,8 @@
-# Configuration file `configuration.yaml` entry
+# Left here for educational purposes, please use plugwise-beta
+
+[plugwise-beta](https://github.com/plugwise/plugwise-beta)
+
+### Configuration file `configuration.yaml` entry
 
 Basic support - alpha version - of Anna (non-legacy), Adam and P1 (v3)
 
